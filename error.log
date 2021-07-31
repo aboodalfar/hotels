@@ -1,0 +1,24 @@
+[31-Jul-2021 20:48:38 Asia/Amman] PHP Fatal error:  Uncaught Error: Class 'Controller\DefaultController' not found in C:\xampp\htdocs\hotels\index.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\hotels\index.php on line 27
+[31-Jul-2021 20:55:50 Asia/Amman] PHP Notice:  Undefined index: SERVER_ADDR in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 26
+[31-Jul-2021 20:56:02 Asia/Amman] PHP Notice:  Undefined index: SERVER_ADDR in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 26
+[31-Jul-2021 20:56:02 Asia/Amman] PHP Notice:  Undefined index: SERVER_ADDR in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 26
+[31-Jul-2021 20:56:04 Asia/Amman] PHP Notice:  Undefined index: SERVER_ADDR in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 26
+[31-Jul-2021 20:56:04 Asia/Amman] PHP Notice:  Undefined index: SERVER_ADDR in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 26
+[31-Jul-2021 20:56:21 Asia/Amman] PHP Notice:  Undefined index: SERVER_ADDR in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 26
+[31-Jul-2021 20:59:41 Asia/Amman] PHP Warning:  file_get_contents(http://localhost:8001/search): failed to open stream: HTTP request failed!  in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 20
+[31-Jul-2021 20:59:41 Asia/Amman] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\hotels\application\Controller\HomeController.php on line 20
+[31-Jul-2021 20:59:41 Asia/Amman] PHP Notice:  Undefined index: from_date in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 38
+[31-Jul-2021 20:59:41 Asia/Amman] PHP Notice:  Undefined index: to_date in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 39
+[31-Jul-2021 20:59:41 Asia/Amman] PHP Notice:  Undefined index: city in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 40
+[31-Jul-2021 20:59:41 Asia/Amman] PHP Notice:  Undefined index: adults_number in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 41
+[31-Jul-2021 21:00:23 Asia/Amman] PHP Notice:  Undefined index: from_date in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 38
+[31-Jul-2021 21:00:23 Asia/Amman] PHP Notice:  Undefined index: to_date in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 39
+[31-Jul-2021 21:00:23 Asia/Amman] PHP Notice:  Undefined index: city in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 40
+[31-Jul-2021 21:00:23 Asia/Amman] PHP Notice:  Undefined index: adults_number in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 41
+[31-Jul-2021 21:01:46 Asia/Amman] PHP Notice:  Undefined index: from_date in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 38
+[31-Jul-2021 21:01:46 Asia/Amman] PHP Notice:  Undefined index: to_date in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 39
+[31-Jul-2021 21:01:46 Asia/Amman] PHP Notice:  Undefined index: city in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 40
+[31-Jul-2021 21:01:46 Asia/Amman] PHP Notice:  Undefined index: adults_number in C:\xampp\htdocs\hotels\application\Controller\HotelsSearchController.php on line 41
